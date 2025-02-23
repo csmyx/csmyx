@@ -1,9 +1,16 @@
 ## Hi there 👋
 
 todo:
-### rust
+### RUST
 - [ ] the implementation detail of Bytes
 - [ ] the relationship of str, vec<u8>, [u8]
+
+### C++
+- [ ] 无锁编程
+- [ ] C++17
+
+
+
 <!--
 **csmyx/csmyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
